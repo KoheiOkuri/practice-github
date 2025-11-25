@@ -17,6 +17,6 @@ function fizzbuzz(num){
     return num;
 }
 
-for (let i = 1 ; i<=1000 ; i++){
+for (let i = 1 ; i<=n ; i++){
     console.log(fizzbuzz(i));
 }
